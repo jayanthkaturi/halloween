@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/halloween/static/css/main.5f361e03.chunk.css",
+    "main.js": "/halloween/static/js/main.50d33fc2.chunk.js",
+    "main.js.map": "/halloween/static/js/main.50d33fc2.chunk.js.map",
+    "runtime-main.js": "/halloween/static/js/runtime-main.0f05412f.js",
+    "runtime-main.js.map": "/halloween/static/js/runtime-main.0f05412f.js.map",
+    "static/js/2.4496f3d0.chunk.js": "/halloween/static/js/2.4496f3d0.chunk.js",
+    "static/js/2.4496f3d0.chunk.js.map": "/halloween/static/js/2.4496f3d0.chunk.js.map",
+    "index.html": "/halloween/index.html",
+    "precache-manifest.706e0f532a11a7c1c135e69d93427279.js": "/halloween/precache-manifest.706e0f532a11a7c1c135e69d93427279.js",
+    "service-worker.js": "/halloween/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/halloween/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4496f3d0.chunk.js.LICENSE.txt": "/halloween/static/js/2.4496f3d0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/halloween/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f05412f.js",
+    "static/js/2.4496f3d0.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.50d33fc2.chunk.js"
+  ]
+}
